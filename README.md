@@ -41,7 +41,7 @@ TryHackMe es una plataforma interactiva para aprender ciberseguridad desde cero 
 
 ## 🔗 Enlaces útiles
 
-- [Mi perfil en TryHackMe](https://tryhackme.com/p/tu_usuario) *(Reemplazar por tu usuario)*
+- [Mi perfil en TryHackMe](https://tryhackme.com/p/EstanislaoTorres)
 - [Sitio oficial](https://tryhackme.com)
 
 ---
